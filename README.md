@@ -16,3 +16,5 @@ Bonsai ICP :
 3. Transfer bonsai to other account.
 
 ## Video Demo
+
+https://youtu.be/ETJx_K7izMU
